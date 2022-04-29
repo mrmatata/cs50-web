@@ -1,7 +1,13 @@
-1) <git clone git@github.com:mrmatata/cs50-web.git> 	# clones the git directory into local device) 
-2) <git add filename> 					                      # use <git add .> to add all the files
-3) <git commit -m "message here">			                # used to commit that must have a message in it, can be used to track the version
-4) <git push>						                              # pushes the changes to the github
-5) <git status>						                            # used to see the status , versions 
-6) <git pull>                                         # pulls change from github into local
-7)
+1) git clone git@github.com:mrmatata/cs50-web.git 	# clones the git directory into local device) 
+2) git add filename 				 	# use git add . to add all the files
+   git add .
+
+3) git commit -m "message here"			  # used to commit that must have a message in it, can be used to track theversion
+4) git push						# pushes the changes to the github
+5) git status						# used to see the status , versions 
+6) git pull                                        # pulls change from github into local
+7) git log					# gives log of all the previous git commits
+8) git reset					# goes back to previous commit
+   git reset -- hard <commit_hash>
+
+9) 
