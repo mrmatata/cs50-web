@@ -4,3 +4,4 @@
 4) <git push>						                              # pushes the changes to the github
 5) <git status>						                            # used to see the status , versions 
 6) <git pull>                                         # pulls change from github into local
+7)
