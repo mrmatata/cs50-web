@@ -10,5 +10,7 @@
 8) git reset					# goes back to previous commit
    git reset -- hard <commit_hash>
 
-9) 
+9) git branch
+	git checkout -b tangent  	#creates new branch using -b 
+	git checkout master
 
