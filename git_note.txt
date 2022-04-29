@@ -3,5 +3,6 @@
 3) <git commit -m "message here">			                # used to commit that must have a message in it, can be used to track the version
 4) <git push>						                              # pushes the changes to the github
 5) <git status>						                            # used to see the status , versions 
-6) <git pull>                                         # pulls change from github into local
+6) git pull                                      # pulls change from github into local
 7)
+8)
